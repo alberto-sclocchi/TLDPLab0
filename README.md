@@ -12,6 +12,6 @@ This is my personal portfolio website where I share my projects, skills, and con
 2. Open `index.html` in your browser.
 
 ## Contact
-- **Email**: youremail@example.com  
-- **Phone**: +1 (234) 567-890  
-- **LinkedIn**: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin/)
+- **Email**: alberto.sclocchi@gmail.com
+- **Phone**: +1 (786) 538-1963  
+- **LinkedIn**: https://www.linkedin.com/in/alberto-sclocchi/
